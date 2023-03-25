@@ -44,7 +44,7 @@ clase1=" d-none";
 
     <div >
         <button className={"btn btn-primary "+clase} type="button" onClick={this.mostrar}><strong>{texto}</strong></button>
-        <img src="/img/cv2022.jpg" className={"fotocv"+clase1} />
+        <img src="/img/cv2023.jpg" className={"fotocv"+clase1} />
 
        
         
