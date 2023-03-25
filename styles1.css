@@ -1,0 +1,181 @@
+
+*{
+	font-family: 'Roboto Condensed', sans-serif;
+	
+
+ }
+
+ .letra{font-size:larger;}
+ .letra1{font-size: large;}
+body{margin: 0;
+	
+	
+
+
+}
+.chaco{ min-width: 100vw;
+	
+}
+.pokebola{
+	border-radius: 300px;
+	
+}
+.black{
+	color: black;
+}
+
+
+body a{color: white;
+ 	text-decoration: none;
+ 	font-weight: bold;
+
+}
+body i{
+	color: lightgreen;
+}
+.iupi{
+	border: solid blueviolet 2px;
+	 border-radius: 20px;
+	 color:white
+}
+.iupi2{
+	
+	color:white
+}
+.container-fluid {
+	background: black;
+}
+body a:hover{
+	color:rgb(0,129,287);
+}
+.menu a {
+	 text-decoration: none;
+	 font-weight: bold;
+	 color: #845ec2;
+       }
+       
+
+.menu{
+	list-style: none;
+	position: sticky;
+	margin-top: 0px;
+	top: 0px;
+	background: lightgreen;
+	opacity: 0.5;
+
+}
+.menu li{
+	display: inline-block;
+	margin-right: 25px;
+	padding:10px 0 ;
+}
+ a:hover{
+	color:rgb(0,129,287);
+
+}
+.gradiente{
+	 background-image: radial-gradient(circle at 24.31% 61.98%, #5e9253 0, #4e8d56 8.33%, #3d8558 16.67%, #2c7a57 25%, #1a6c54 33.33%, #095c4d 41.67%, #004a42 50%, #003836 58.33%, #022a2a 66.67%, #031e20 75%, #001517 83.33%, #000a0f 91.67%, #000105 100%);
+	color: white;
+	padding: 38px;
+
+}
+ .viole{background:blueviolet ;}
+.iupi3{
+	border:solid blueviolet 2px;
+}
+
+
+
+
+ .flex{
+ 	display: flex;
+ 	align-items: center;
+ }
+ 
+
+ .flex1{
+
+ 	background: blueviolet;
+	color:white;
+ 	padding: 5px;
+ 	
+ 	max-width: 100%;
+
+}
+.opa{
+	opacity:0;
+}
+
+ .wichi{
+	min-height: 100vh;
+ }
+
+ .flex1 a{
+ 	color: white;
+ 	text-decoration: none;
+ 	font-weight: bold;
+ }
+ .flex1 a:hover{
+ 	color:rgb(0,129,287);
+
+ }
+
+@media screen and ( max-width: 400px){
+	  body .fotojere{
+		width: 100px;
+	}
+	body .fotomewtwo{
+		width: 100px;
+	}
+	
+		
+	}
+	@media screen and ( max-width: 900px){
+		.fotocv {
+			width: 400px;
+		}
+	  
+		  
+	  }
+	  @media screen and ( max-width: 500px){
+		.fotocv {
+			width: 300px;
+		}
+	  
+		  
+	  }
+	  @media screen and ( max-width: 400px){
+		.fotocv {
+			width: 150px;
+		}
+	  
+		  
+	  }
+	
+.whatsapp{
+position: fixed;
+bottom: 0;
+right: 0;
+opacity: 0.75;
+color: white;
+ 	text-decoration: none;
+ 	font-weight: bold;
+	
+}
+
+.container{
+	background: black;
+}
+.negri{
+	color:black
+}
+.resaltado{
+	color:blueviolet;
+	font-weight: bold;
+}
+.auto{
+	margin:auto;
+}
+.titles{
+	text-decoration: underline solid blueviolet 2px;
+}
