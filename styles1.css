@@ -31,7 +31,7 @@ body a{color: white;
 
 }
 body i{
-	color: lightgreen;
+	color:#1f7042;
 }
 .iupi{
 	border: solid blueviolet 2px;
@@ -62,7 +62,7 @@ body a:hover{
 	position: sticky;
 	margin-top: 0px;
 	top: 0px;
-	background: lightgreen;
+	background: #1f7042;
 	opacity: 0.5;
 
 }
@@ -76,7 +76,7 @@ body a:hover{
 
 }
 .gradiente{
-	 background-image: radial-gradient(circle at 24.31% 61.98%, #5e9253 0, #4e8d56 8.33%, #3d8558 16.67%, #2c7a57 25%, #1a6c54 33.33%, #095c4d 41.67%, #004a42 50%, #003836 58.33%, #022a2a 66.67%, #031e20 75%, #001517 83.33%, #000a0f 91.67%, #000105 100%);
+	 background-image:radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(25,131,112,1) 0%, rgba(15,60,64,1) 100%);
 	color: white;
 	padding: 38px;
 
@@ -97,7 +97,7 @@ body a:hover{
 
  .flex1{
 
- 	background: blueviolet;
+ 	background: #e49800;
 	color:white;
  	padding: 5px;
  	
@@ -181,3 +181,4 @@ color: white;
 .titles{
 	text-decoration: underline solid blueviolet 2px;
 }
+
