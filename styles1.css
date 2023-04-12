@@ -42,8 +42,10 @@ body i{
 	
 	color:white
 }
-.container-fluid {
-	background: black;
+.contenedor-princi {
+	background-image: url(img/fondo.jpg);
+	background-repeat: no-repeat;
+  background-size: cover;
 }
 body a:hover{
 	color:rgb(0,129,287);
