@@ -182,4 +182,7 @@ color: white;
 	text-decoration: underline solid blueviolet 2px;
 }
 
- 
+#proyectos {
+	margin: 0 auto;
+	text-align: center;
+  }
