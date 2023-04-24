@@ -186,3 +186,7 @@ color: white;
 	margin: 0 auto;
 	text-align: center;
   }
+  .carousel-item img {
+	max-width: 100%;
+  }
+  
